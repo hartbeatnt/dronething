@@ -1,0 +1,23 @@
+{
+  "name": "dronething",
+  "version": "1.0.0",
+  "description": "a thing for controlling a drone i guess",
+  "main": "index.js",
+  "dependencies": {
+    "parrot-minidrone": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hartbeatnt/dronething.git"
+  },
+  "author": "n8sh4rk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hartbeatnt/dronething/issues"
+  },
+  "homepage": "https://github.com/hartbeatnt/dronething#readme"
+}
